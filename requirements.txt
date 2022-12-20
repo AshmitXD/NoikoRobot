@@ -21,6 +21,7 @@ hachoir
 heroku3
 html2text
 jikanpy
+lxml
 markdown2
 motor
 nltk
