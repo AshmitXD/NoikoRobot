@@ -412,7 +412,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            url="https://github.com/Krishsuperyo,
+                            url="https://github.com/AshmitXD,
                         ),
                     ],
                     [
@@ -451,7 +451,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 *sᴏʀʀʏ ʙᴜᴛ ᴄᴜʀʀᴇɴᴛʟʏ ɴᴏɪᴋᴏ ʀᴏʙᴏᴛ ʀᴇᴘᴏsɪᴛᴏʀʏ ɪs ᴘʀɪᴠᴀᴛᴇ.*
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Krishsuperyo/NoikooRobot/blob/master/LICENSE).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/AshmitXD/NoikoRobot/blob/master/LICENSE).
 © 2022 - 2023 [@ʜɪɴᴅɪ ᴇɴɢʟɪsʜ ᴄʜᴀᴛᴛɪɴɢ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
